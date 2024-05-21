@@ -3,6 +3,6 @@ SQL project for Database systems subject at VUT FIT. The assignment was to creat
 
 # Authors
 
-Matúš Tábi [xtabim01]
+Matúš Tábi [xtabim01] \
 Samuel Šulgan [xsulga02]
 
